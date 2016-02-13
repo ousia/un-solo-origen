@@ -4,6 +4,19 @@ Este libro describe un método de edición electrónica totalmente automatizado.
 
 Partiendo de un ejemplo real de edición electrónica, trato de explicar qué es y qué supone el trabajo digital con textos.
 
+## Descarga
+
+_Un solo origen_ se ofrece gratuitamente en tres formatos:
+
+* [Documento ePub](https://archive.org/download/un-solo-origen/un-solo-origen.epub), compatible con lectores de libros electrónicos.
+
+* [Documento AZW](https://archive.org/download/un-solo-origen/un-solo-origen.azw), compatible con lectores _Kindle_.
+
+* [Documento PDF](https://archive.org/download/un-solo-origen/un-solo-origen.pdf), no está pensado para leer en pantalla, sino directamente para impresión en formato libro. Para leer en pantalla usa el formato ePub.
+
+Si encuentras algún fallo o tienes alguna sugerencia sobre los archivos, abre por favor [una incidencia](https//github.com/ousia/un-solo-origen/issues).
+
+
 ## Motivación
 
 Ofrezco _Un solo origen_ gratuitamente a cualquiera siguiendo un oscuro propósito. Trato de ponerlo a disposición de todas aquellas personas que quieran leerlo, porque entiendo que puede llegar a ser útil.
@@ -35,18 +48,6 @@ Por copia privada, el [artículo 3.4.a) del Real Decreto 1657/2012](https://www.
 Esa falta de cobertura normativa permite el programa de licencias de CEDRO (<https://www.conlicencia.com>). Para que esta entidad pueda cobrar licencias, reguladas por contratos entre CEDRO y autores o editoriales, las obras tienen que estar en su catálogo. _Un solo origen_ no se encuentra en su catálogo.
 
 Por eso, CEDRO o cualquier entidad de gestión colectiva de derechos no pueden cobrar por esta obra: ni con arreglo a ley —no lo permite—, ni por licencia —carecen de autorización—.
-
-## Descarga
-
-_Un solo origen_ se ofrece gratuitamente en tres formatos:
-
-* [Documento ePub](https://archive.org/download/un-solo-origen/un-solo-origen.epub), compatible con lectores de libros electrónicos.
-
-* [Documento AZW](https://archive.org/download/un-solo-origen/un-solo-origen.azw), compatible con lectores _Kindle_.
-
-* [Documento PDF](https://archive.org/download/un-solo-origen/un-solo-origen.pdf), no está pensado para leer en pantalla, sino directamente para impresión en formato libro. Para leer en pantalla usa el formato ePub.
-
-Si encuentras algún fallo o tienes alguna sugerencia sobre los archivos, abre por favor [una incidencia](https://archive.org/download/un-solo-origen/http://github.com/ousia/un-solo-origen/issues).
 
 ### Cómo conseguir la versión en papel
 
