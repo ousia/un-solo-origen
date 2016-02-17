@@ -18,7 +18,7 @@ _Un solo origen_ se ofrece gratuitamente en tres formatos:
 
     El tamaño carta es el tamaño estándar en América y sus Estados Unidos.
 
-Si encuentras algún fallo o tienes alguna sugerencia sobre los archivos, abre por favor [una incidencia](https//github.com/ousia/un-solo-origen/issues).
+Si encuentras algún fallo o tienes alguna sugerencia sobre los archivos, abre por favor [una incidencia](https://github.com/ousia/un-solo-origen/issues/new).
 
 
 ## Motivación
@@ -29,7 +29,7 @@ El trato está en lo que puede considerarse un pacto de nobleza:
 
 * Si el libro te gusta, pásale la dirección <http://www.un-solo-origen.tk> a quien creas que le puede interesar. O dale una copia impresa de la última versión disponible.
 
-* Si crees que hay puntos erróneos o que deben corregirse, abre [una incidencia](http://github.com/ousia/un-solo-origen/issues) y cuenta cuáles son y en qué deben mejorar.
+* Si crees que hay puntos erróneos o que deben corregirse, abre [una incidencia](https://github.com/ousia/un-solo-origen/issues/new) y cuenta cuáles son y en qué deben mejorar.
 
 * Si piensas que el libro es malo, agradezco la crítica. Es bueno que sea razonada. Y es necesario que sea respetuoso con las personas.
 
@@ -63,7 +63,7 @@ Sólo hay que hacerlo en una impresora que tenga doble cara y con una versión d
 
 ## Comentarios
 
-Para cualquier comentario que quieras hacer sobre el libro, te pediría que abrieses [una incidencia](http://github.com/ousia/un-solo-origen/issues). Las incidencias requieren estar dado de alta en _GitHub_.
+Para cualquier comentario que quieras hacer sobre el libro, te pediría que abrieses [una incidencia](https://github.com/ousia/un-solo-origen/issues/new). Las incidencias requieren estar dado de alta en _GitHub_.
 
 Supongo que no hace falta explicar lo siguiente, aunque lo explico para que no haya malos entendidos. Todos los comentarios son bienvenidos, especialmente aquellos que sean críticos. Ningún comentario puede faltar al respeto de ninguna persona.
 
