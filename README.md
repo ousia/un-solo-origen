@@ -12,7 +12,7 @@ _Un solo origen_ se ofrece gratuitamente en tres formatos:
 
 * [Documento AZW](https://archive.org/download/un-solo-origen/un-solo-origen.azw), compatible con lectores _Kindle_.
 
-* Documento PDF listo para impresión: [tamaño DIN A4](https://archive.org/download/un-solo-origen/un-solo-origen_A4-folleto.pdf) y [tamaño carta](https://archive.org/download/un-solo-origen/un-solo-origen_A4-folleto.pdf), no está pensado para leer en pantalla, sino directamente para impresión en formato libro. Para leer en pantalla usa el formato ePub.
+* Documento PDF listo para impresión: [tamaño DIN A4](https://archive.org/download/un-solo-origen/un-solo-origen_A4-folleto.pdf) y [tamaño carta](https://archive.org/download/un-solo-origen/un-solo-origen_carta-folleto.pdf), no está pensado para leer en pantalla, sino directamente para impresión en formato libro. Para leer en pantalla usa el formato ePub.
 
     El tamaño DIN A4 es el papel estándar en Europa y España.
 
