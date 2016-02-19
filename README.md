@@ -79,7 +79,7 @@ Además de necesidades para las que es necesario dinero, te pediría que conside
 
 ## Historial de versiones
 
-Las versiones se ordenan de menor a mayor. La clave es una referencia de publicación en un almacén `git` privado. Si esto último no entiendes qué es, no importa. Es sólo por seguridad.
+Las versiones se ordenan de mayor a menor. La clave es una referencia de publicación en un almacén `git` privado. Si esto último no entiendes qué es, no importa. Es sólo por seguridad.
 
 Versión | Modificaciones
 --------- | -----------------
