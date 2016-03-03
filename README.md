@@ -83,6 +83,7 @@ Las versiones se ordenan de mayor a menor. La clave es una referencia de publica
 
 Versión | Modificaciones
 --------- | -----------------
-1.1       | Folleto nuevo en tamaño carta (clave `7807ded75e3d7e6c0f2f8a839dcd4eb29d0dbcc7`).
-1.0       | Primera versión publicada (clave `692268244faee41ec00d1c63494a7465908aca5a`).
+1.1.1     | Correcciones menores (clave `2fe9af8`).
+1.1       | Folleto nuevo en tamaño carta (clave `7807ded`).
+1.0       | Primera versión publicada (clave `6922682`).
 
