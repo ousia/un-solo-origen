@@ -85,7 +85,7 @@ Las versiones se ordenan de mayor a menor. La clave es una referencia de publica
 
 Versión | Modificaciones
 --------- | -----------------
-1.2     | Correcciones y PDF normalizado (clave `c974dfa4`).
+1.2       | Correcciones y PDF normalizado (clave `c974dfa4`).
 1.1.1     | Correcciones menores (clave `2fe9af8`).
 1.1       | Folleto nuevo en tamaño carta (clave `7807ded`).
 1.0       | Primera versión publicada (clave `6922682`).
