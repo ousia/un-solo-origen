@@ -1,0 +1,8 @@
+title: Un solo origen
+description: Un método automatizado de edición electrónica
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
